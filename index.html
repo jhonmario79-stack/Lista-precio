@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Consulta de Precios</title>
+
+<link rel="manifest" href="manifest.json">
+
+<style>
+
+body{
+    margin:0;
+    padding:0;
+    font-family: Arial, sans-serif;
+    background:#f3f4f6;
+}
+
+header{
+    background:#111827;
+    color:white;
+    padding:20px;
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.container{
+    padding:15px;
+    max-width:800px;
+    margin:auto;
+}
+
+input{
+    width:100%;
+    padding:15px;
+    border-radius:12px;
+    border:1px solid #ccc;
+    font-size:18px;
+    box-sizing:border-box;
+    margin-bottom:20px;
+}
+
+.card{
+    background:white;
+    border-radius:14px;
+    padding:16px;
+    margin-bottom:12px;
+    box-shadow:0 2px 8px rgba(0,0,0,0.08);
+}
+
+.codigo{
+    color:#6b7280;
+    font-size:14px;
+}
+
+.producto{
+    margin-top:6px;
+    font-size:18px;
+    font-weight:bold;
+}
+
+.precio{
+    margin-top:12px;
+    font-size:24px;
+    font-weight:bold;
+    color:#111827;
+}
+
+.info{
+    text-align:center;
+    color:#666;
+    margin-top:20px;
+    margin-bottom:30px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+Consulta de Precios
+</header>
+
+<div class="container">
+
+<input type="text" id="buscar" placeholder="Buscar producto o código">
+
+<div id="resultados"></div>
+
+<div class="info" id="info"></div>
+
+</div>
+
+<script>
+
+let productos = [];
+
+const resultados = document.getElementById("resultados");
+const buscar = document.getElementById("buscar");
+const info = document.getElementById("info");
+
+async function cargarCSV(){
+
+    const response = await fetch("productos.csv");
+    const texto = await response.text();
+
+    const lineas = texto.split(/\r?\n/);
+
+    productos = [];
+
+    for(let i=1;i<lineas.length;i++){
+
+        const linea = lineas[i].trim();
+
+        if(!linea) continue;
+
+        const partes = linea.split(";");
+
+        if(partes.length < 3) continue;
+
+        productos.push({
+            codigo: partes[0],
+            producto: partes[1],
+            precio: partes[2]
+        });
+    }
+
+    info.innerText = "Total productos: " + productos.length;
+
+    mostrar(productos);
+}
+
+function mostrar(lista){
+
+    resultados.innerHTML = "";
+
+    if(lista.length === 0){
+
+        resultados.innerHTML = `
+            <div class="card">
+                No se encontraron productos.
+            </div>
+        `;
+
+        return;
+    }
+
+    lista.slice(0,100).forEach(item => {
+
+        const div = document.createElement("div");
+
+        div.className = "card";
+
+        div.innerHTML = `
+            <div class="codigo">Código: ${item.codigo}</div>
+            <div class="producto">${item.producto}</div>
+            <div class="precio">${item.precio}</div>
+        `;
+
+        resultados.appendChild(div);
+
+    });
+}
+
+buscar.addEventListener("input", ()=>{
+
+    const texto = buscar.value.toLowerCase();
+
+    const filtrados = productos.filter(p =>
+        p.producto.toLowerCase().includes(texto) ||
+        p.codigo.toLowerCase().includes(texto)
+    );
+
+    mostrar(filtrados);
+
+});
+
+cargarCSV();
+
+</script>
+
+</body>
+</html>

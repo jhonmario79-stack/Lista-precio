@@ -1,0 +1,8 @@
+{
+  "name": "Consulta de Precios",
+  "short_name": "Precios",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827"
+}
