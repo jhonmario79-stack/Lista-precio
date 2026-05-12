@@ -106,7 +106,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1111;H2O 600 ml.;2700
 1112;Casero maracuya relleno;3600
 1113;Pasabocas Chiss;600
-1114;Lucky 10;8200
+1114;Lucky 10;8400
 1115;PH Elite Max azul;1500
 1116;Jet pequena 12gr.;1200
 1117;PH Elite Duo;2600
@@ -249,7 +249,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1272;Minichips;1600
 1273;Chocolate Tesalia 100 gr.;10400
 1274;Deterk 480 gr.;4100
-1275;CD Colgate 22 ml.;2500
+1275;CD Colgate 22 ml.;2600
 1276;Boliqueso;2200
 1277;Gala Ramo;2400
 1278;Chocoramo;2900
@@ -319,7 +319,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1349;Axion pequeno 235 gr.;3500
 1350;Monster;8500
 1351;TH Nosotras individual;800
-1352;Jabon Protex;3600
+1352;Jabon Protex;3700
 1353;Protectores Nosotras;2200
 1354;Dte. Lady Speed sobre pno.;1200
 1355;Dte. Speed Stick sobre;1200
@@ -384,7 +384,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1422;Mayonesa Fruco sobre;2000
 1423;Snow mint;200
 1424;Huevos AA;700
-1425;Axion 450 gr.;6800
+1425;Axion 450 gr.;7000
 1426;Vodka Like 300 ml.;5500
 1427;Refajo Kola Roman;2800
 1428;Milky Way 22 gr.;1600
@@ -410,11 +410,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1452;Leche Colanta;4200
 1453;Quesito Colanta;4700
 1454;Aguila laton;4500
-1455;RV Caldas azul cuarto;18000
+1455;RV Caldas azul cuarto;21000
 1456;Ron Medellin copa;3700
 1457;Aguila light laton;4500
 1458;Dolex Forte;2400
-1459;Cepillo Colgate Premier Clean;2400
+1459;Cepillo Colgate Premier Clean;2600
 1462;Esponja toalla Matrix;1200
 1463;Casero frutos amarillos;2800
 1464;Cepillo Colgate Zigzag carbon;3800
@@ -561,8 +561,9 @@ CODIGO;PRODUCTO;VR.VENTA
 1637;Bretana 350;2600
 1638;Agua Cristal pet 600 ml.;2000
 1639;Postobon sabores 350;2600
+1640;Ego FM gel vitamina 80 ml.;2000
 1641;Bombilla Nalpilux 9w;2800
-1642;Aceite Oleosabor 3L;31600
+1642;Aceite Oleosabor 3L;32500
 1643;Coca Cola pet 250;2000
 1644;Jabon Lak;2200
 1646;Galletas frutos rojos;3800
@@ -583,13 +584,14 @@ CODIGO;PRODUCTO;VR.VENTA
 1666;Del Valle citrico 250 ml.;1500
 1668;Champu Savital;1400
 1671;Crema de peinar Pantene;1200
+1672;Quatro vidrio pequena;1700
 1673;Mani La Especial salado;2200
 1674;Tampico en bolsa;1000
 1675;Salsa BBQ Fruco 80 gr.;2600
 1677;Bombilla Philips 12w;4000
-1678;Servilleta Familia practi-diarias;2800
+1678;Servilleta Familia practi-diarias;3000
 1679;Sporade;2600
-1680;Chitos Yupi grande;2000
+1680;Chitos Yupi grande;2200
 1682;Gel Ego grande;2800
 1683;Arequipito;2300
 1684;Tampon Nosotras super x 1 unidad;1000
@@ -699,7 +701,8 @@ CODIGO;PRODUCTO;VR.VENTA
 1798;Hit tetra 200 ml.;1500
 1799;Speed Max lata 310 ml.;2000
 1800;Gomitas Grissly Postobon 67 gr.;2100
-1801;Jabon Dove;5000
+1801;Jabon Dove;5500
+1802;Pilas Eveready AAA ;1300
 1804;Menta Chao individual;200
 1805;Blancox;1800
 1806;Moritas Caramelo relleno;100
