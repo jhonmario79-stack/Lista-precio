@@ -45,7 +45,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1044;Dolex gripa;1800
 1045;Coca Cola 1.5 L.;6500
 1046;Energizer par AA alcalina;6000
-1047;CD Colgate triple mediano;4700
+1047;CD Colgate triple mediano;4500
 1048;Cono Mega Chocomani;4400
 1050;Paleta con trozos de fruta;3000
 1051;Aceite La Garza 900 ml.;12000
@@ -83,7 +83,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1085;Mq. Afeitar Venus  3h.;4200
 1086;Casero coco;2800
 1087;Mani La Especial Manicero;1200
-1088;Cereal Froot Loops;1600
+1088;Cereal Froot Loops;1700
 1089;Vaso 3.5oz leche Colanta;330
 1090;Sprite 1.5L.;4500
 1091;Dte. Lady Speed clinical sobre gde.;2300
@@ -199,7 +199,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1211;Choclitos;2200
 1212;TH Nosotras normal natural;4000
 1214;Ag. Amarillo Manzanares 375;32000
-1215;Galleta Milo x 4;1500
+1215;Galleta Milo x 4;1300
 1216;TH Nosotras invisible clasica;4000
 1217;Marlboro Fusion 10;8400
 1218;Yogurt Alpina vaso;2900
@@ -222,7 +222,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1235;Mostaza San Jorge ;6200
 1236;Galleta Nucita;2500
 1237;Mani casero;1400
-1238;Smirnoff botella;9500
+1238;Smirnoff botella;7000
 1239;Tostiarepa Yupi;1800
 1240;Tostiempanada Yupi;1700
 1241;Vasito de helado Colombina;2000
@@ -254,9 +254,9 @@ CODIGO;PRODUCTO;VR.VENTA
 1272;Minichips;1600
 1273;Chocolate Tesalia 100 gr.;10400
 1274;Deterk 480 gr.;4100
-1275;CD Colgate 22 ml.;2600
+1275;CD Colgate 22 ml.;2500
 1276;Boliqueso;2200
-1277;Gala Ramo;2400
+1277;Gala Ramo;2500
 1278;Chocoramo;2900
 1279;Trululu sabores acidos;1200
 1280;Jabon Coco Varela 180 gr.;3200
@@ -275,7 +275,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1295;Noraver pastilla;2200
 1296;Festival x 6;1400
 1297;Chupileta lengua fresa;2400
-1298;Panales Winny etapa 4;1800
+1298;Panales Winny etapa 4;2000
 1299;Wafer Noel;900
 1300;Acetaminofen 500;200
 1301;Papas y rosquitas caseras;3800
@@ -323,14 +323,14 @@ CODIGO;PRODUCTO;VR.VENTA
 1346;Papas Pachas Ramo 30 gr.;2500
 1347;Ranchera Tripack;5300
 1348;Deterk 100 gr.;1200
-1349;Axion pequeno 235 gr.;3500
+1349;Axion pequeno 235 gr.;3600
 1350;Monster 473 ml.;8500
 1351;TH Nosotras individual;800
-1352;Jabon Protex;3700
+1352;Jabon Protex;4200
 1353;Protectores Nosotras;2200
 1354;Dte. Lady Speed sobre pno.;1200
 1355;Dte. Speed Stick sobre;1400
-1356;Ramito x2;2400
+1356;Ramito x2;2000
 1357;Chicle Xtime;300
 1359;Det. As bicarbonato Rey 1K.;9500
 1360;Advil Max;2700
@@ -377,7 +377,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1403;Sal de frutas Lua;3500
 1404;Bonfiest Plus;4400
 1406;Mq. Afeitar Gillette 3h.;5000
-1407;Jabon Johnson's;3800
+1407;Jabon Johnson's;3600
 1408;Crema peinar Sedal;1300
 1409;Confites Bianchi;300
 1410;Acondicionador Sedal;1200
@@ -395,7 +395,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1422;Mayonesa Fruco sobre;2000
 1423;Snow mint;200
 1424;Huevos AA;700
-1425;Axion 450 gr.;7000
+1425;Axion 450 gr.;8000
 1426;Vodka Like 300 ml.;5500
 1427;Refajo Kola Roman;2800
 1428;Milky Way 22 gr.;1600
@@ -452,7 +452,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1483;Confites Viva Vita jengibre;400
 1484;Mr. Tea retornable;1500
 1485;Cebion;600
-1486;Noxpirin;1500
+1486;Noxpirin;1600
 1487;Papel aluminio 7 mts.;3500
 1489;Pilsen laton;4500
 1490;Leche Alpina 400 ml.;2200
@@ -469,7 +469,8 @@ CODIGO;PRODUCTO;VR.VENTA
 1503;Maizitos Ramo grandes 215 gr.;7800
 1504;Zucaritas mega 115 gr.;5400
 1505;Whisky Passport 200 ml.;175
-1508;Advil gripa;2600
+1507;Salsa con mostaza 190 gr.;6400
+1508;Advil gripa;2500
 1509;Crema peinar HyS coco;1200
 1510;Yogo Yogo bolsa;1600
 1511;RV Caldas amarillo cuarto;21000
@@ -497,6 +498,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1535;Saltinas Nestle taco;1700
 1536;RV Caldas copa;4000
 1537;Cadela Bengala;1400
+1538;Maiz tierno MiDia latq 241 gr.;5300
 1539;Powerade 500  ml.;3800
 1540;Gomitas sandia - emoji;800
 1541;Dona Gallina desmenuzado;600
@@ -515,6 +517,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1557;Aceite Oleosabor 250 ml.;3200
 1558;Rizadas Yupi de limon;2300
 1560;Det. Fab 1k;14300
+1561;Sopa Aji-no-men 80 gr.;3500
 1562;Nutribela crema de peinar;1200
 1564;Chocolate Cruz 200 gr.;17600
 1565;Chocolate Cruz x 2 unds.;1300
@@ -554,7 +557,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1608;Lucky unidad;1200
 1609;Marlboro rojo unidad;1200
 1610;Caramelo Snacky;1600
-1611;Ibuprofeno 800 MK capsula;1300
+1611;Ibuprofeno 800 MK capsula;1400
 1612;Champu Sedal;1200
 1613;Aromatica panela unidad;200
 1614;Panitos Dampy x 150;7800
@@ -583,14 +586,16 @@ CODIGO;PRODUCTO;VR.VENTA
 1642;Aceite Oleosabor 3L;32500
 1643;Coca Cola pet 250;2000
 1644;Jabon Lak;2200
+1645;Crema de leche Alpina 110 ml.;3700
 1646;Galletas frutos rojos;3700
 1647;Pinguino;4200
-1649;Gomitas Grissly gde. 70 gr.;2200
+1649;Gomitas Grissly gde. 70 gr.;2400
 1650;Impermeable para moto;6000
 1652;Luker 224 gr.;19000
 1653;Pilas Varta AA carbon Zinc par;2600
 1654;Gelatina Frutino;2000
 1656;Salchichon Zenu Cerveroni;1600
+1657;Actigest vaso 140 gr.;3000
 1659;Mora rellena Colombina;100
 1660;Chocoramo barrita;2600
 1661;Axion liquido grande 720 ml.;9000
@@ -616,7 +621,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1685;Jabon Deseo ;2300
 1686;Zen 540 ml.;2700
 1687;Detergente liquido Goliat;3000
-1688;Crema Ponds;2200
+1688;Crema Ponds;2600
 1689;Vive 100 grande 380 ml.;2800
 1690;Canela astilla La Gran Cocina;1700
 1691;Fiestos 43 gr.;2400
@@ -668,10 +673,10 @@ CODIGO;PRODUCTO;VR.VENTA
 1739;Trululu sabores;2200
 1740;Casero frutos rojos relleno;3600
 1741;Hit pet 500;3200
-1742;Maiz dulce Zenu 241 gr.;6600
+1742;Maiz dulce Zenu 241 gr.;7000
 1743;Esponjillas;300
 1744;Condones Hawai;1200
-1745;Noraver gripa bebida sobre;3000
+1745;Noraver gripa bebida sobre;3100
 1746;Det. As bicarbonato Rey 125 gr.;1700
 1747;Jabon Fab en barra;3300
 1748;Cerveza Coronita;3800
