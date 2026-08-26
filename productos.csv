@@ -1,7 +1,7 @@
 CODIGO;PRODUCTO;VR.VENTA
 1001;Triguisar 20 gr.;1000
 1002;Mareol;1200
-1003;Atun Van Camps aceite;6800
+1003;Atun Van Camps aceite;7000
 1004;Aromatica bolsa unidad;200
 1005;Coca cola 1L;4500
 1006;Atun Van Camps agua;7000
@@ -74,7 +74,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1076;Nescafe 30 gr.;6000
 1077;Nescafe Frasco 50 gr.;14000
 1078;Paleta de agua Fruly;2000
-1079;Nescafe Frasco 85 gr.;20900
+1079;Nescafe Frasco 85 gr.;20000
 1080;Bocadillo El Caribe 125 gr.;2600
 1081;Nutribela champu 18 ml.;1400
 1082;Crema de leche Nestle 90 ml.;3400
@@ -93,7 +93,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1095;Bocadillo mitad con crema;600
 1096;Crema de leche Alqueria 180 ml.;5600
 1097;Bimboletes;2200
-1098;Alqueria deslactosada 1L.;5200
+1098;Alqueria deslactosada 1L.;6100
 1099;Del Valle citrico 400 ml.;2200
 1100;PH Scott cuidado completo x 12;21400
 1101;Gudiz;1400
@@ -104,7 +104,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1106;Quipitos;800
 1107;Rama caja 170 gr.;4700
 1108;Champu Hys sobre pequeno;1200
-1109;Gaviscon;3500
+1109;Gaviscon;4000
 1110;Casero ron pasas;2800
 1111;H2O 600 ml.;2700
 1112;Casero maracuya relleno;3600
@@ -124,6 +124,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1127;Manicero con limon 18 gr.;1500
 1128;H Afeitar Minora;600
 1130;Lapiz Mirado;1000
+1131;Det. Ultrex 500 gr.;4000
 1132;Margarita crema y cebolla;2500
 1133;Espaguetis Doria;2400
 1134;Champu Johnson sobre;1600
@@ -143,7 +144,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1149;Rama 125 gr.;2800
 1150;Alcohol Mk 700 ml.;9600
 1151;Hall XS ;2300
-1152;Tamarindo Postobon 1.5L.;4500
+1152;Tamarindo Postobon 1750 ml.;4500
 1153;PH Familia megarrollo;2600
 1154;Antioqueno tetra verde 1L.;54000
 1155;Atun Van Camps pequeno;3800
@@ -164,6 +165,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1170;Detodito Natural;3000
 1171;TH Nosotras buenas noches;3600
 1172;Dte. Dove rollon;4200
+1173;Jumbo Ryancastro 170 gr.;14500
 1174;Yogurt Alqueria bolsa;1500
 1175;Tostada Mama Ines;3900
 1176;Marlboro white 20;13200
@@ -172,6 +174,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1179;Salsa roja Fruco DyP  120 gr.;2800
 1181;T Mexana grande 150 gr.;13300
 1182;Alqueria hojuelas 170 gr.;4500
+1184;Lavaplatos liquido MiDia 500 ml.;3200
 1186;Galleta Milo  x 6;1600
 1187;Frutino 2L.;1200
 1189;Gaseosa Pool 400 ml.;1500
@@ -277,11 +280,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1295;Noraver pastilla;2200
 1296;Festival x 6;1400
 1297;Chupileta lengua fresa;2400
-1298;Panales Winny etapa 4;2000
+1298;Panales Winny etapa 5;2000
 1299;Wafer Noel;900
 1300;Acetaminofen 500;200
 1301;Papas y rosquitas caseras;3800
-1303;Vive 100 ultragrande 1L.;4000
+1303;Vive 100 ultragrande 1L.;4500
 1304;Bretana 250 vidrio;1500
 1305;RV Caldas amarillo botella;59000
 1306;Club Social;1200
@@ -337,7 +340,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1360;Advil Max;2500
 1361;Blancox ropa color;3500
 1362;Aceite Riquisimo 900 ml.;11900
-1363;Sevedol extrafuerte;1900
+1363;Sevedol extrafuerte;2300
 1364;Maizitos arepitas Ramo 35 gr.;1700
 1365;Festival x 8 unidades;1600
 1366;Jabon Rexona;3400
@@ -369,7 +372,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1394;Det. Fab 450 gr.;6000
 1396;Gomitas Grissly pna. 40 gr.;1700
 1397;Salero Refisal;1500
-1398;PH Super Blanko max x12 und.;19300
+1398;PH Super Blanko max x12 und.;20700
 1399;Dte. Rexona rollon;4200
 1400;Champu Alma de Rom;1400
 1401;Alka Seltzer;1500
@@ -378,11 +381,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1404;Bonfiest Plus;4400
 1405;Andina Light Laton;3500
 1406;Mq. Afeitar Gillette 3h.;5000
-1407;Jabon Johnson's;3500
+1407;Jabon Johnson's;3700
 1408;Crema peinar Sedal;1300
 1409;Confites Bianchi;300
 1410;Acondicionador Sedal;1200
-1411;Ak-1 liquido DyP 900 ml.;11700
+1411;Ak-1 liquido DyP 900 ml.;12600
 1412;Chicles Adams pequeno;300
 1414;Laton Poker;4500
 1415;Galletas Chokis;1800
@@ -395,7 +398,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1422;Mayonesa Fruco sobre;2000
 1423;Snow mint;200
 1424;Huevos AA;700
-1425;Axion 450 gr.;7000
+1425;Axion 450 gr.;6800
 1426;Vodka Like 300 ml.;5500
 1427;Refajo Kola Roman;2800
 1428;Milky Way 22 gr.;1600
@@ -480,7 +483,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1513;Noxpirin Sinus Tab;1800
 1514;Dte. Speed Stick Practitubo;3800
 1515;Oka Loka revolcon;300
-1517;Cocosette galleta wafer;2400
+1517;Cocosette wafer 46 gr.;2400
 1518;Milo tetra 180 ml.;3500
 1519;Cigarrillo L & M (L y M) (LyM) 10;5200
 1520;Alpinito 45 gr.;1700
@@ -545,7 +548,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1592;Panitos Dampy x 25;2200
 1593;Popetas;2200
 1594;Heineken lata 310 ml.;3700
-1595;Deterk 950 gr.;7500
+1595;Deterk 950 gr.;8800
 1596;Pastillas Chao;1200
 1597;Gatorade 1L.;6500
 1598;Leche condensada Colombina;1000
@@ -610,6 +613,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1666;Del Valle citrico 250 ml.;1500
 1667;Uva Postobon 400 ml.;2600
 1668;Champu Savital;1400
+1669;Tukol D 10 ml.;2000
 1671;Crema de peinar Pantene;1200
 1672;Quatro vidrio pequena;1700
 1673;Mani La Especial salado;2200
@@ -654,7 +658,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1713;Tampon Nosotras x 3 unidades;2300
 1714;Choclitos familiar;8000
 1715;Trident mediano;1200
-1716;Acondicionador Dove;1200
+1716;Acondicionador Dove;1400
 1717;Ron Medellin 5 anos;34000
 1719;Panitos Pequenin inidividual;300
 1720;RV Caldas rojo media;36000
@@ -717,7 +721,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1782;Brownie Bimbo;4100
 1783;Cifrut 400;1700
 1784;Melositas Luker 35 gr.;1600
-1785;Esponja Mi Dia;1600
+1785;Esponja MiDia;1600
 1786;Rosquitas Mama Ines;1900
 1788;Trululu osos piramidal;600
 1789;Supercoco tirudito;400
@@ -743,7 +747,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1812;Trident pastilla x4;600
 1813;Manzana 250 pet;2000
 1814;Coca Cola sin azucar 1.5 L.;6500
-1816;Mq. Afeitar Schick 4h;4800
+1816;Mq. Afeitar Schick 4h;5000
 1817;Brisa saborizada  600 ml.;2500
 1818;Cerveza Andina laton;3500
 1819;Trident barra;4400
@@ -756,9 +760,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1827;PH Elite suave y resistente x 12 ;17800
 1828;Crema de leche Aurolac 200 ml.;3300
 1829;Clavos La Gran Cocina pepa 9 gr.;1500
+1830;Caucho de olla encartonado;1300
 1831;Klim esencial pno. 25 gr.;1600
 1832;Chachos natural americano 15 gr.;2800
 1833;Det. Fab 700 gr.;9100
+1834;Quatro pet 250 ml.;1800
 1835;Algodon JGB 25 gr.;2500
 1836;Nucita crema 14 gr.;800
 1838;Pila Tronex alcalina AA;5700
