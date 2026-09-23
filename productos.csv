@@ -146,7 +146,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1149;Rama 125 gr.;2900
 1150;Alcohol Mk 700 ml.;9600
 1151;Hall XS ;2500
-1152;Tamarindo Postobon 1750 ml.;4500
+1152;Tamarindo Postobon 1.5 L.;4500
 1153;PH Familia megarrollo;2600
 1154;Antioqueno tetra verde 1L.;54000
 1155;Atun Van Camps pequeno;3800
@@ -175,10 +175,10 @@ CODIGO;PRODUCTO;VR.VENTA
 1178;Palomitas Yupi;2200
 1179;Salsa roja Fruco DyP  120 gr.;2800
 1180;Clavos Montellano;1000
-1181;T Mexana grande 150 gr.;13300
+1181;T Mexana grande 150 gr.;14000
 1182;Alqueria hojuelas 170 gr.;4500
 1183;Fuze Tea 1.2 ml.;5000
-1184;Lavaplatos liquido MiDia 500 ml.;3200
+1184;Lavaloza liquido MiDia 500 ml.;3200
 1186;Galleta Milo  x 6;1600
 1187;Frutino 2L.;1200
 1188;Manimoto natural ;1800
@@ -218,7 +218,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1224;Avena Alpina vaso;4000
 1225;Alpin bolsa;2700
 1226;Vino Sanson;27000
-1227;Alcohol JGB 120 ml.;3600
+1227;Alcohol JGB 120 ml.;3700
 1228;Aceite Oliosoya 250 ml.;4300
 1229;Mq. Afeitar BIC;2700
 1230;Cono chocovainilla;3800
@@ -245,10 +245,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1251;Red Bull;8000
 1252;Galletas Tosh x 3;1200
 1253;Ron Medellin tetra 1L.;66800
+1255;Rosquitas caseras 32 gr.;2200
 1256;Ron Medellin media;30000
 1257;Ron Medellin cuarto;19000
 1258;Ron Medellin garrafa;134000
-1259;Refisal 500 gr.;1600
+1259;Refisal 500 gr.;1700
 1260;Labios rojos;600
 1261;Buscapina compuesta;2300
 1263;Mani Kraks rojo;1500
@@ -256,7 +257,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1265;Cuates laton 473 ml.;8500
 1266;Azucar 500 gr.;2500
 1267;Mechas locas;4000
-1268;Sobre Kola granulada JGB;2500
+1268;Sobre Kola granulada JGB;2700
 1269;Ajax bicarbonato 500 ml.;5000
 1270;Cono Twist 3 leches;2200
 1271;Ponque Ramo vainilla;7000
@@ -276,6 +277,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1285;Brownie Bimbo 65 gr. Flow;3400
 1286;Copelia 15 gr.;600
 1287;Premio pet 400 ml.;2800
+1288;Alcohol MK 120 ml.;3600
 1289;Champu Pantene;1200
 1290;Agua Cristal gas 600 ml.;2200
 1291;Cerveza Costena ;2500
@@ -293,11 +295,11 @@ CODIGO;PRODUCTO;VR.VENTA
 1304;Bretana 250 vidrio;1500
 1305;RV Caldas amarillo botella;59000
 1306;Club Social;1200
-1307;Papel chicle Vinipel 100 mts.;6000
+1307;Papel chicle Vinipel 100 mts.;6300
 1308;Det. Fab 100 gr.;1900
 1309;Det. Fab 225 gr.;3200
 1310;Menta Chao x 2;300
-1311;Crema de leche Alqueria 125 gr.;2900
+1311;Crema de leche Alqueria 125 gr.;3300
 1312;Jet mediana 25 gr.;3500
 1313;Jumbo grande;8300
 1314;Jumbo mediana 35 gr.;3900
@@ -313,18 +315,18 @@ CODIGO;PRODUCTO;VR.VENTA
 1325;Chocokrispis 30 gr.;1800
 1326;Oreo pequena;1500
 1327;Halls barra;2200
-1328;T Mexana 85 gr.;7200
+1328;T Mexana 85 gr.;7500
 1329;Salchicha Zenu comun  x 3 tripack;4400
 1330;Ranchera Zenu x 5 penta;7100
 1331;Pilas Energizer sencilla unidad;2200
 1332;Oreo grande;1600
 1333;Trident grande;2000
 1334;Suavitel pequeno 180 ml.;2200
-1335;Zucaritas;1700
+1335;Zucaritas 36 gr.;1700
 1336;Fabuloso 180 ml.;2200
 1337;Chorizo ternera x 2;4800
 1338;Colombiana pet 400 ml.;2600
-1339;Jabon Supremo;3800
+1339;Jabon Supremo 300 gr.;4200
 1340;Ponky Nucita;2000
 1341;Cono tres leches;3800
 1343;Nutribela acondicionador;1200
@@ -333,7 +335,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1346;Papas Pachas Ramo 30 gr.;2500
 1347;Ranchera Tripack;5300
 1348;Deterk 100 gr.;1200
-1349;Axion pequeno 235 gr.;3500
+1349;Axion pequeno 235 gr.;3600
 1350;Monster 473 ml.;9000
 1351;TH Nosotras individual;800
 1352;Jabon Protex;4200
@@ -366,7 +368,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1382;Paleta BBB;2600
 1383;Bocadillo Pandapan 300 gr.;3500
 1384;Jabon Cristalino;3500
-1385;La Sopera;1600
+1385;La Sopera;2000
 1386;Rosquillas grandes La 96 50 gr.;4800
 1387;Curitas Cure Band;200
 1388;Jabon Lux;3500
@@ -378,7 +380,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1394;Det. Fab 450 gr.;6000
 1396;Gomitas Grissly pna. 40 gr.;1700
 1397;Salero Refisal;1500
-1398;PH Super Blanko max x12 und.;20700
+1398;PH Super Blanko max x12 und.;20500
 1399;Dte. Rexona rollon;4200
 1400;Champu Alma de Rom;1400
 1401;Alka Seltzer;1500
@@ -387,7 +389,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1404;Bonfiest Plus;4400
 1405;Andina Light Laton;3500
 1406;Mq. Afeitar Gillette 3h.;5000
-1407;Jabon Johnson's;3700
+1407;Jabon Johnson's;4000
 1408;Crema peinar Sedal;1300
 1409;Confites Bianchi;300
 1410;Acondicionador Sedal;1200
@@ -397,7 +399,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1415;Galletas Chokis;1800
 1416;Jumbo mix;5000
 1417;Chocolate Tesalia 200 gr.;17700
-1419;Aromatel grande 400 ml.;3000
+1419;Aromatel grande 420 ml.;3000
 1420;Condones Today;4800
 1421;Copa de aguardiente Tazul;3700
 1422;Mayonesa Fruco sobre;2000
@@ -437,7 +439,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1456;Ron Medellin copa;3700
 1457;Aguila light laton;4500
 1458;Dolex Forte;2500
-1459;Cepillo Colgate Premier Clean;2600
+1459;Cepillo Colgate Premier Clean;2700
 1460;Suero costeno Alqueria 200 gr.;5700
 1463;Casero frutos amarillos;2800
 1466;Galletas Ducales taco;3100
@@ -467,12 +469,13 @@ CODIGO;PRODUCTO;VR.VENTA
 1491;Tutti Frutti pet 250;1200
 1492;Quatro pet 400;2800
 1493;LyM  unidad;800
+1494;Gastrofast Advance;3200
 1495;Sparkies en linea;400
 1496;Paleta Chileta de mango 15 gr.;900
 1497;Candela Tokai;2000
-1498;Champu HyS tarro 375 ml.;20400
+1498;Champu HyS tarro 375 ml.;22000
 1500;Trident individual;400
-1501;Ibuflash migrana;2300
+1501;Ibuflash migrana;2500
 1502;Tutti Fruti vidrio 250 ml.;1500
 1503;Maizitos Ramo grandes 215 gr.;7800
 1504;Zucaritas mega 115 gr.;6100
@@ -500,7 +503,8 @@ CODIGO;PRODUCTO;VR.VENTA
 1528;Brisa saborizada  1.5L;4000
 1529;Candela Gold golpe linterna;1600
 1530;RV Caldas azul garrafa;113000
-1532;Cepillo Pro 425 Original;4500
+1531;Lavaloza liquida MiDia 1000 ml.;11000
+1532;Cepillo Pro 425 Original;5000
 1533;RV Caldas amarillo media;31000
 1534;RV Caldas shots;5500
 1535;Saltinas Nestle taco;1700
@@ -524,6 +528,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1556;X Ray Dol Pack;2000
 1557;Aceite Oleosabor 250 ml.;3300
 1558;Rizadas Yupi de limon;2300
+1559;Panitos Dampy x 120;8200
 1560;Det. Fab 1k;13700
 1561;Sopa Aji-no-men 80 gr.;3500
 1562;Nutribela crema de peinar;1200
@@ -536,6 +541,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1571;Chocoso;2600
 1572;Agua Cristal 1L.;2500
 1573;Axion mini 150gr.;2500
+1575;Mermelada Colombina DyP 200 gr.;5900
 1576;Club Colombia laton 473 ml.;5000
 1577;Suntea sobre 12 gr.;1600
 1578;Coca Cola 2 L. Retornable;6000
@@ -568,7 +574,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1611;Ibuprofeno 800 MK capsula;1400
 1612;Champu Sedal;1200
 1613;Aromatica panela unidad;200
-1614;Panitos Dampy x 150;7800
+1614;Panitos Dampy x 150;8300
 1615;Alqueria deslactosada 1L.;5200
 1616;Manzana Postobon 1.750 ml.;4700
 1617;Pilas Tronex AA;1300
@@ -710,7 +716,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1761;Alqueria deslactosada 200 ml.;1200
 1762;Premio 1.5L.;5200
 1763;Salsa Showy 200 ml.;7200
-1764;Alcohol JGB 700 ml.;9300
+1764;Alcohol JGB 700 ml.;9600
 1765;Ablanda carnes La Gran Cocina;1200
 1766;Chicharrin mixto casero;3800
 1767;Dte. Rexona clinical rosada tapa;1400
@@ -772,7 +778,7 @@ CODIGO;PRODUCTO;VR.VENTA
 1832;Chachos natural americano 15 gr.;2800
 1833;Det. Fab 700 gr.;9100
 1834;Quatro pet 250 ml.;1800
-1835;Algodon JGB 25 gr.;2500
+1835;Algodon JGB 25 gr.;2800
 1836;Nucita crema 14 gr.;800
 1837;Corona Laton 473 ml.;5500
 1838;Pila Tronex alcalina AA;5700
